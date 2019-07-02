@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="0.00781">
+<testcase classname="Test Background keyword" name="signin" time="0.005463">
+<system-out><![CDATA[Given users un and psd......................................................passed
+And click signin............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Background keyword" name="search for the product" time="0.00045">
+<system-out><![CDATA[When user searches for iphone...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Background keyword" name="add to cart" time="0.000539">
+<system-out><![CDATA[When user adding the searched product to cart...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Background keyword" name="payment process" time="0.000936">
+<system-out><![CDATA[When user performing payment process using netbanking.......................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Background keyword" name="signout" time="0.000422">
+<system-out><![CDATA[When user performing logout from online shopping cart.......................passed
+]]></system-out>
+</testcase>
+</testsuite>
+
